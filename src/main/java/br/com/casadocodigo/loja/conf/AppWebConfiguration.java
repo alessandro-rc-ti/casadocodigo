@@ -28,7 +28,7 @@ import br.com.casadocodigo.loja.models.CarrinhoCompras;
  * @author alessandro
  *
  */
-
+ 
 @EnableWebMvc
 @ComponentScan(basePackageClasses={HomeController.class, ProdutoDAO.class, FileSaver.class, CarrinhoCompras.class})
 public class AppWebConfiguration extends WebMvcConfigurerAdapter {
