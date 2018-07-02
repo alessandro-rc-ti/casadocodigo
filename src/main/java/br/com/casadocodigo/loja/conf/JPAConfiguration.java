@@ -16,7 +16,7 @@ import org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
- * @author alessandro
+ * @author alessandro rocha
  *
  */
 @EnableTransactionManagement
